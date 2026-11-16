@@ -1,7 +1,10 @@
 {
-  "name": "magpie-doubao-work-auth",
+  "name": "@coisini6384/magpie-doubao-work-auth",
   "version": "0.4.0",
   "description": "豆荚：把豆包工作（Doubao Work）的订阅积分变成 magpie 网关上的模型，支持超长上下文附件上传",
+  "publishConfig": {
+    "access": "public"
+  },
   "type": "module",
   "main": "./index.mjs",
   "files": [
